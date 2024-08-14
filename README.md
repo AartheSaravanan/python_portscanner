@@ -82,8 +82,11 @@ In this example, the script will scan the first 100 ports on `example.com` and p
 
 ## project code
 import socket
+
 import threading
+
 import time
+
 from concurrent.futures import ThreadPoolExecutor
 
 # Function to scan a specific port
