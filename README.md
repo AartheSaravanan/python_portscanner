@@ -145,4 +145,4 @@ if __name__ == "__main__":
         print(f"Error: Could not resolve domain name {target}. Please check the domain and try again.")
     except ValueError:
         print("Invalid input. Please enter a number.")
-# python_portscanner
+
