@@ -14,9 +14,6 @@ The Port Scanner is a Python script designed to scan a range of ports on a speci
 - **Security Professionals:** For assessing potential vulnerabilities by identifying open ports on target systems.
 - **Developers:** To troubleshoot and ensure that necessary ports are accessible during development.
 
-With this script, you can efficiently perform port scans to aid in network management and security assessments.
-
----
 
 ## Usage/Examples
 
