@@ -19,7 +19,6 @@ With this script, you can efficiently perform port scans to aid in network manag
 ---
 
 ## Usage/Examples
-Here’s a `Usage` and `Example` section for your port scanning script that you can include in your README file:
 
 ---
 
